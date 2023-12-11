@@ -2,7 +2,7 @@ html{
     scroll-behaviour: smooth;
 }
 .fullscreen-landing{
-    background: white url("../fdhgd.jpeg") no-repeat scroll center;
+    background: white url("../liquid-marbling-paint-texture-background-fluid-painting-abstract-texture-intensive-color-mix-wallpaper_1258-85317.avif") no-repeat scroll center;
     height:100vh;
     background-size:cover;
 }
@@ -28,5 +28,14 @@ html{
     .search-box{
         width: 300px;
     }
+}
+#experience{
+    background: rgb(137, 124, 124) url("../wp2662873.jpg") no-repeat scroll center;
+    background-size:cover;
+}
+#customers{
+    background: rgb(137, 124, 124) url("../pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg") no-repeat scroll center;
+    background-size:cover;
 
 }
+
